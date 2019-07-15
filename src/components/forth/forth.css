@@ -1,0 +1,127 @@
+.container4{
+    width: 99.4vw;
+    height: 99.9vh;
+    background-color: #FFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.first-details{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: space-around;
+}
+.second-details{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: #FBFBFB;
+}
+.network-logo{
+    width: 49vw;
+    height: 50%;
+    margin-top: 50px;
+}
+.vertical-line{
+    width: 2px;
+    height: 300px;
+    background-color: #F59F34;
+}
+.text-container{
+    width: 940px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.forth-logo{
+    width: 140px;
+    height: 140px;
+}
+.forth-logo-container{
+    width: 33.333333%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo-container{
+    width: 99.4vw;
+    height: 65%;
+    display: flex;
+    justify-content: space-around;
+}
+.under-logoes-text-container{
+    width: 99.4vw;
+    height: 30%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.forth-textes{
+    color:black;
+    text-decoration: underline;
+    font-size: 20pt;
+    text-align: center;
+}
+.forth-vertical-line{
+    width: 2px;
+    height: 48px;
+    background-color: #F59F34;
+    cursor: pointer;
+}
+.forth-scroll-botton-container{
+    width:  99.4vw;
+    height:10%;
+    color:#F59F34;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.forth-texttt-one{
+    width: 100%;
+    height: 30%;
+    color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    text-align: center;
+
+}
+.forth-texttt-one-one{
+    width: 100%;
+    height: 10%;
+    color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    text-align: start;
+
+}
+.forth-texttt-second{
+    width: 100%;
+    height: 30%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    text-align: start;
+
+}
+.forth-texttt-third{
+    width: 100%;
+    height: 30%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    text-align: start;
+
+}
